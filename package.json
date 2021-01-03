@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Samsamargi/npm-lab-rcdd_202010_leb_few/issues"
   },
-  "homepage": "https://github.com/Samsamargi/npm-lab-rcdd_202010_leb_few#readme"
+  "homepage": "https://github.com/Samsamargi/npm-lab-rcdd_202010_leb_few#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
